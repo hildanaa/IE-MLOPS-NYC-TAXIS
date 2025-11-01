@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/44844f26d38248c6b6e5db4dd9c5c362/artifacts
+end_time: 1762008500203
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: 44844f26d38248c6b6e5db4dd9c5c362
+run_name: nimble-tern-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762008494087
+status: 3
+tags: []
+user_id: hp

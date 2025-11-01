@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/models/m-09034892d6ed43698dafcfbc1a85881e/artifacts
+creation_timestamp: 1762008489040
+experiment_id: '631828279333079130'
+last_updated_timestamp: 1762008493987
+model_id: m-09034892d6ed43698dafcfbc1a85881e
+model_type: ''
+name: models
+source_run_id: bdb7ad73025e4165bb8fdf82d1854c92
+status: 2
+status_message: null

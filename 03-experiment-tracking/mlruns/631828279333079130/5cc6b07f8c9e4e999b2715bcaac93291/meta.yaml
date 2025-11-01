@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/5cc6b07f8c9e4e999b2715bcaac93291/artifacts
+end_time: 1762007885443
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: 5cc6b07f8c9e4e999b2715bcaac93291
+run_name: dazzling-dolphin-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762007872873
+status: 3
+tags: []
+user_id: hp

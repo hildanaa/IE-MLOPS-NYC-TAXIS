@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/7fc9d4f4e0504483bf066b8678d4fd30/artifacts
+end_time: 1762008079486
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: 7fc9d4f4e0504483bf066b8678d4fd30
+run_name: thoughtful-worm-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762008072900
+status: 3
+tags: []
+user_id: hp

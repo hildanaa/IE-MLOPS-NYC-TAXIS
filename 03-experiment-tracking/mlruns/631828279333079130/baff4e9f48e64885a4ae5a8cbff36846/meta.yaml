@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/baff4e9f48e64885a4ae5a8cbff36846/artifacts
+end_time: 1762007892477
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: baff4e9f48e64885a4ae5a8cbff36846
+run_name: skillful-duck-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762007885504
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/e89101e035c241d9ab1e65db52ab92dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: e89101e035c241d9ab1e65db52ab92dc
+run_name: awesome-carp-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762007827995
+status: 1
+tags: []
+user_id: hp

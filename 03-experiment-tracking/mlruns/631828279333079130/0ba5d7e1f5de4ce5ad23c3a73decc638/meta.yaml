@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/0ba5d7e1f5de4ce5ad23c3a73decc638/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: 0ba5d7e1f5de4ce5ad23c3a73decc638
+run_name: calm-wren-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762008040128
+status: 1
+tags: []
+user_id: hp

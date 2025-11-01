@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/dd3f682650c34aef8734ce23e83595e3/artifacts
+end_time: 1762008482963
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: dd3f682650c34aef8734ce23e83595e3
+run_name: exultant-shad-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762008477611
+status: 3
+tags: []
+user_id: hp

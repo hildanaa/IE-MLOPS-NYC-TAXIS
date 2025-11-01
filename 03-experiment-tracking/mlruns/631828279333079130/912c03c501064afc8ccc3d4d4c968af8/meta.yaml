@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/OneDrive/Desktop/IE-MLOPS-NYC-TAXIS/03-experiment-tracking/mlruns/631828279333079130/912c03c501064afc8ccc3d4d4c968af8/artifacts
+end_time: 1762007898615
+entry_point_name: ''
+experiment_id: '631828279333079130'
+lifecycle_stage: active
+run_id: 912c03c501064afc8ccc3d4d4c968af8
+run_name: upset-stoat-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762007892552
+status: 3
+tags: []
+user_id: hp
