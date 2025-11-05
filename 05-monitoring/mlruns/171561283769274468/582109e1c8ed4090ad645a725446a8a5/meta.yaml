@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/171561283769274468/582109e1c8ed4090ad645a725446a8a5/artifacts
+end_time: 1762338725449
+entry_point_name: ''
+experiment_id: '171561283769274468'
+lifecycle_stage: active
+run_id: 582109e1c8ed4090ad645a725446a8a5
+run_name: omniscient-auk-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762338701102
+status: 3
+tags: []
+user_id: hp
